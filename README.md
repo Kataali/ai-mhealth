@@ -6,17 +6,18 @@ A colleague and I originally started this project as our undergraduate final-yea
 ###Splash Screen
 <img src="/screenshots/splash.jpg" width="300" height="600"/>
 
-###Login Screen
+### Login Screen
 <img src="/screenshots/login.jpg" width="300" height="600"/>
 
-###Home Screen
+### Home Screen
 <img src="/screenshots/home.jpg" width="300" height="600"/>
 
-###Medications Screen
+### Medications Screen
 <img src="/screenshots/medications.jpg" width="300" height="600"/>
 
-###History Screen
+### History Screen
 <img src="/screenshots/history.jpg" width="300" height="600"/>
 
+### More in the screenshots folder...
 
 
