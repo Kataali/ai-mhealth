@@ -4,9 +4,10 @@ A colleague and I originally started this project as our undergraduate final-yea
 
 ## Screenshots of the app
 Splash Screen 
-  <img src="https://github.com/Kataali/ai-mhealth/blob/master/screenshots/splash.jpg" width="200" height="400"/>
+<img src="https://github.com/Kataali/ai-mhealth/blob/master/screenshots/splash.jpg" width="300" height="600"/>
 
-![login screen](/screenshots/login.jpg)
+Login Screen
+<img src="/screenshots/login.jpg" width="300" height="600"/>
 
 ![home screen](/screenshots/home.jpg)
 
