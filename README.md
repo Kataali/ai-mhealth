@@ -1,16 +1,6 @@
 # ai_mhealth_app
 
-A new Flutter project.
+This project was originally started by me and a colleague as our undergraduate final year project. I have now forked it to hopefully continue working on it. The vision was to build an AIopowered mhealth application with the functional requirements as remote consultations, health sensitization, medication managemnt and symptom-based disease prediction.
 
-## Getting Started
+## Screenshots of the app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
