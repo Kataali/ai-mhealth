@@ -4,7 +4,7 @@ A colleague and I originally started this project as our undergraduate final-yea
 
 ## Screenshots of the app
 Splash Screen 
-  <img scr="https://github.com/Kataali/ai-mhealth/blob/master/screenshots/splash.jpg" width="100" height="100"/>
+  <img src="https://github.com/Kataali/ai-mhealth/blob/master/screenshots/splash.jpg" width="100" height="100"/>
 
 ![login screen](/screenshots/login.jpg)
 
